@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>jena</name>
+	<displayName><![CDATA[Jena - Smart Targeting]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Ciblez vos clients pour une diffusion intelligente]]></description>
+	<author><![CDATA[JenaCorp]]></author>
+	<tab><![CDATA[search_filter]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
